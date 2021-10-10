@@ -1,1 +1,1 @@
-print("Hello from file!")
+print("Commiting via Atom!")
